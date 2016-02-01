@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node main.js"
   },
   "author": "Zac Colley <hi@zaccolley.com> (http://zaccolley.com)",
   "license": "ISC",
   "dependencies": {
-    "nodehun": "^2.0.4"
+    "nodehun": "^2.0.8"
   }
 }
