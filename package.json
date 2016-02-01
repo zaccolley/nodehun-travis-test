@@ -9,6 +9,6 @@
   "author": "Zac Colley <hi@zaccolley.com> (http://zaccolley.com)",
   "license": "ISC",
   "dependencies": {
-    "nodehun": "^2.0.8"
+    "nodehun": "^2.0.4"
   }
 }
